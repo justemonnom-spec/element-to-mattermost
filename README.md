@@ -1,2 +1,2 @@
 # element-to-mattermost
-get back your olf chats if you move to mattermost
+get back your old element.io chats if you choosed to move to mattermost
